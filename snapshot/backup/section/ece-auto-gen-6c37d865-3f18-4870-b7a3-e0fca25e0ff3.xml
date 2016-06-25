@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="ece_incoming" source="ece-auto-gen" sourceid="6c37d865-3f18-4870-b7a3-e0fca25e0ff3" name="New Articles" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="d560cc7f-e3df-4e24-bd15-cf889b5d9119" unique-name="ece_frontpage"/>
+        <unique-name>ece_incoming</unique-name>
+        <directory>incoming</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>
